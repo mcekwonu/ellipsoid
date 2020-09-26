@@ -36,7 +36,7 @@ def plotEllipsoid(A, center):
 	
 	
 class Ellipsoid:
-	"""Class to make ellipsoids."""
+	"""Class to make ellipsoid."""
 	
 	@staticmethod
 	def getMinVolEllipse(P, tolerance=0.01):
